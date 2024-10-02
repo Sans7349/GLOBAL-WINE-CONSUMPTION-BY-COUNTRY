@@ -1,2 +1,3 @@
-# GLOBAL-WINE-CONSUMPTION-BY-COUNTRY
-The project focused on forecasting global wine consumption by country, featuring interactive scatterplots to illustrate data relationships. This experience enhanced my skills in data science tools and deepened my expertise in programming and predictive analytics.
+# GLOBAL-WINE-CONSUMPTION-BY-COUNTR
+Developed an ML project in Python, utilizing Pandas for robust data handling, Scikit-learn for advanced machine learning algorithms, Matplotlib.pyplot for insightful data visualization, and tkinter for building an intuitive user interface.
+Focused on forecasting global wine consumption by country, the project showcased interactive scatterplots to depict intricate data relationships. By seamlessly integrating these libraries, I adeptly processed diverse datasets, trained predictive models, and visualized compelling insights into socio-economic influences on wine consumption patterns across regions. This endeavor not only sharpened my proficiency in data science tools but also deepened my expertise in programming and predictive analytics.
