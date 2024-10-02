@@ -1,0 +1,7 @@
+Country,Year ,Total_Wine_Consumption_(liters),Per_Capita_Wine_Consumption_(liters),Wine_Production_(thousands_of_liters),GDP_Per_Capita_(USD),Population
+France,2019,1310203.87,21,62000,41000,67000000
+Italy,2019,1280000,20,68000,37000,60000000
+Spain,2019,940000,19,47000,32000,47000000
+US,2019,1080000,14,75000,56000,330000000
+Argentina,2019,590000,13,32000,11000,45000000
+Australia,2019,680000,17,37000,44000,25000000
